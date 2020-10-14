@@ -1,2 +1,2 @@
-# Pr-_admiss-o_laboratoria
+# Pre_adm_laboratoria
 Processo seletivo Laboratoria
